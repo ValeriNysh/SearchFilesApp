@@ -1,0 +1,10 @@
+D:\PROGRAMMING\SearchFiles\SearchFilesApp\SearchFiles\library\PDFClown\dotNET\pdfclown.samples.cli\build\package\PDFClownCLISamples.exe.config
+D:\PROGRAMMING\SearchFiles\SearchFilesApp\SearchFiles\library\PDFClown\dotNET\pdfclown.samples.cli\build\package\PDFClownCLISamples.exe
+D:\PROGRAMMING\SearchFiles\SearchFilesApp\SearchFiles\library\PDFClown\dotNET\pdfclown.samples.cli\build\package\PDFClownCLISamples.pdb
+D:\PROGRAMMING\SearchFiles\SearchFilesApp\SearchFiles\library\PDFClown\dotNET\pdfclown.samples.cli\build\package\PDFClown.dll
+D:\PROGRAMMING\SearchFiles\SearchFilesApp\SearchFiles\library\PDFClown\dotNET\pdfclown.samples.cli\build\package\PDFClown.pdb
+D:\PROGRAMMING\SearchFiles\SearchFilesApp\SearchFiles\library\PDFClown\dotNET\pdfclown.samples.cli\obj\x86\Debug\pdfclown.samples.cli.csprojAssemblyReference.cache
+D:\PROGRAMMING\SearchFiles\SearchFilesApp\SearchFiles\library\PDFClown\dotNET\pdfclown.samples.cli\obj\x86\Debug\pdfclown.samples.cli.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\SearchFiles\SearchFilesApp\SearchFiles\library\PDFClown\dotNET\pdfclown.samples.cli\obj\x86\Debug\pdfclown.samples.cli.csproj.CopyComplete
+D:\PROGRAMMING\SearchFiles\SearchFilesApp\SearchFiles\library\PDFClown\dotNET\pdfclown.samples.cli\obj\x86\Debug\PDFClownCLISamples.exe
+D:\PROGRAMMING\SearchFiles\SearchFilesApp\SearchFiles\library\PDFClown\dotNET\pdfclown.samples.cli\obj\x86\Debug\PDFClownCLISamples.pdb

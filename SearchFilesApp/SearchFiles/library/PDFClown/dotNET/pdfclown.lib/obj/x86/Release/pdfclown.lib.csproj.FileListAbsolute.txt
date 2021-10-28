@@ -1,0 +1,4 @@
+D:\PROGRAMMING\SearchFiles\SearchFilesApp\SearchFiles\library\PDFClown\dotNET\pdfclown.lib\build\package\PDFClown.dll
+D:\PROGRAMMING\SearchFiles\SearchFilesApp\SearchFiles\library\PDFClown\dotNET\pdfclown.lib\obj\x86\Release\pdfclown.lib.csprojAssemblyReference.cache
+D:\PROGRAMMING\SearchFiles\SearchFilesApp\SearchFiles\library\PDFClown\dotNET\pdfclown.lib\obj\x86\Release\pdfclown.lib.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\SearchFiles\SearchFilesApp\SearchFiles\library\PDFClown\dotNET\pdfclown.lib\obj\x86\Release\PDFClown.dll
