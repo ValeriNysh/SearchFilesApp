@@ -1,10 +1,21 @@
 # SearchFilesApp
 
-SearchFilesApp is a Windows Forms application written in C#.
-It's purpouse is to help with finding needed documents when you have a key-word or -sentance.
-The App supports PDF and Docx file-types.
+SearchFilesApp is a Windows Forms application developed in C#.
+It's purpouse is to facilitate the search for required documents using keywords or sentences.
+The application supports PDF and Docx file types.
 
-You define a derictory, where to search and where to gather files that match. Also you have to provide a key-word or key-sentance, that you are looking for.
-The app searches through all the files and inside the folders in given derictory. It checks the contant of every single document and if the key-word/-sentance is found there, it offers you either to copy or to move this file to the folder that you specified in the beginning, where you can find all the files that containe your thought-for information.
+## Functionality:
 
+- **Directory Selection:**
+Choose a directory to search and designate a location to gather matching files.
 
+- **Keyword/Sentance Input:**
+Provide a keyword or sentence that you are searching for within the documents.
+
+- **Search Process:**
+The application scans through all files and folders in the specified directory, examining the content of each document.
+
+- **Matching Files Handling:**
+If the keyword or sentence is found, the app gives you the option to either copy or move the file to the initially designed folder, where you can find then all the files containing the information you are looking for.
+
+This tool simplifies the process of locationg relevant documents based on specified keywords or sentences.
