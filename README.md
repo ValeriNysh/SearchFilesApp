@@ -1,8 +1,8 @@
 # SearchFilesApp
 
-SearchFilesApp is a Windows Forms application developed in C#.
-It's purpouse is to facilitate the search for required documents using keywords or sentences.
-The application supports PDF and Docx file types.
+SearchFilesApp is a Windows Forms application developed in C#.  
+It's purpouse is to facilitate the search for required documents using keywords or sentences.  
+The application supports PDF and Docx file types.  
 
 ## Functionality:
 
