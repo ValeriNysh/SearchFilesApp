@@ -18,4 +18,4 @@ The application scans through all files and folders in the specified directory, 
 - **Matching Files Handling:**  
 If the keyword or sentence is found, the app gives you the option to either copy or move the file to the initially designed folder, where you can find then all the files containing the information you are looking for.
 
-This tool simplifies the process of locationg relevant documents based on specified keywords or sentences.
+This tool simplifies the process of locating relevant documents based on specified keywords or sentences.
